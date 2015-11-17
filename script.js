@@ -7,9 +7,9 @@ var fs = require('fs');
 /*
  * CREDENTIALS
  */
-var username = "simon.black@mendix.com";
-var apikey = "c1e8381b-7b9b-486f-8227-5ba5ead1b2aa";
-var projectId = "a1066f17-9633-473c-95b0-d847aee1c2ac";
+var username = "{Your Email}";
+var apikey = "{Your API Key}";
+var projectId = "{Your project ID}";
 var projectName = "XPDL SDK Converter";
 var revNo = -1; // -1 for latest
 var branchName = null; // null for mainline
